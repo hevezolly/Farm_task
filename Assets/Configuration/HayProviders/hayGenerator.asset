@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27904a45dc81caf4299a56d4898c0957, type: 3}
+  m_Name: hayGenerator
+  m_EditorClassIdentifier: 
+  useRandomSeed: 1
+  seed: 1536286220
+  xResolution: 5
+  zResolution: 5
+  localSize: {x: 0.35, y: 0.7, z: 0.35}
+  uvxRange: {x: 0.02, y: 0.98}
+  uvyRange: {x: 0, y: 1}
+  minMaxXDisplacement: {x: -0.05, y: 0.05}
+  minMaxYDisplacement: {x: -0.05, y: 0.05}
+  maxTiltAngle: 10
+  sliceHeight: 0.2

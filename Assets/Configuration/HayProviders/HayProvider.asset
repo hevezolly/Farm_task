@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ffe0299e3cea9f4ca5da6d8d344540f, type: 3}
+  m_Name: HayProvider
+  m_EditorClassIdentifier: 
+  pregeneratedMeshes:
+  - hay: {fileID: 4300000, guid: 410dfe6035ec8bd4e89ded6b6b910420, type: 2}
+    slicedHay: {fileID: 4300000, guid: 0c124c3f5173d9d439436e929ebd9e31, type: 2}
+  - hay: {fileID: 4300000, guid: 36fdaed86a00f06458d2f284d6e03490, type: 2}
+    slicedHay: {fileID: 4300000, guid: b8f440cec6aaca54894bde82ad6e573b, type: 2}
+  - hay: {fileID: 4300000, guid: 28f7a2fc3c0a6b04ead980936422ca8f, type: 2}
+    slicedHay: {fileID: 4300000, guid: a0e8411081c3f7841a7f09a448b7cdb3, type: 2}
+  - hay: {fileID: 4300000, guid: 2b40ee82cc6bb8440a49a0d3b21154f1, type: 2}
+    slicedHay: {fileID: 4300000, guid: b2a094de9b982b2439ad2bd66b5ebb5b, type: 2}
+  - hay: {fileID: 4300000, guid: 09e67d12c7b41e94e8a862d884876b42, type: 2}
+    slicedHay: {fileID: 4300000, guid: 7fb33979d3be06240999bbcb19643d78, type: 2}
