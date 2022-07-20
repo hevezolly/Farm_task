@@ -1,2 +1,1 @@
-# Farm_task
-тестовое задание в кампанию Dorfer Games
+[видео демонстрация](https://youtu.be/QIwVpmhTPSo)
