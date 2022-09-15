@@ -1,1 +1,10 @@
-[видео демонстрация](https://youtu.be/QIwVpmhTPSo)
+# Hypercasual farm
+Test task for job application
+
+Tecknologies:
+- Unity 2020.3
+- Cinemachine
+- [DOTween](http://dotween.demigiant.com/) package for procedural animations
+- Unity Animations
+
+gameplay demo: https://youtu.be/QIwVpmhTPSo
