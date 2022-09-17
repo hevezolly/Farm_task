@@ -1,7 +1,7 @@
 # Hypercasual farm
 Test task for job application
 
-Tecknologies:
+Technologies:
 - Unity 2020.3
 - Cinemachine
 - [DOTween](http://dotween.demigiant.com/) package for procedural animations
